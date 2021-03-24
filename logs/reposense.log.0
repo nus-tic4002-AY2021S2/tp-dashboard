@@ -1,80 +1,80 @@
-Mar 23, 2021 12:44:55 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Mar 24, 2021 12:45:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias Dai Wei found. The alias will belong to the last author - daiweinus
-Mar 23, 2021 12:44:55 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Mar 24, 2021 12:45:36 AM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias Dai Wei found. The alias will belong to the last author - daiweinus
-Mar 23, 2021 12:44:55 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 24, 2021 12:45:36 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-TIC4002-F18-1/tp2.git...
-Mar 23, 2021 12:44:55 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:36 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-TIC4002-F18-1/tp2.git to complete...
-Mar 23, 2021 12:44:56 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:38 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-TIC4002-F18-1/tp2.git completed!
-Mar 23, 2021 12:44:56 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 24, 2021 12:45:38 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-TIC4002-F18-4/tp2.git...
-Mar 23, 2021 12:44:56 AM reposense.report.ReportGenerator analyzeRepos
+Mar 24, 2021 12:45:38 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/4] Analyzing https://github.com/AY2021S2-TIC4002-F18-1/tp2.git (master)...
-Mar 23, 2021 12:44:56 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 24, 2021 12:45:38 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-TIC4002-F18-1/tp2.git (master) does not contain a standalone config file.
-Mar 23, 2021 12:44:56 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 24, 2021 12:45:38 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-TIC4002-F18-1/tp2.git (master)...
-Mar 23, 2021 12:44:56 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 24, 2021 12:45:38 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-TIC4002-F18-1/tp2.git (master)...
-Mar 23, 2021 12:44:56 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Mar 24, 2021 12:45:38 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-TIC4002-F18-1/tp2.git (master)...
-Mar 23, 2021 12:44:59 AM reposense.report.ReportGenerator analyzeRepo
+Mar 24, 2021 12:45:40 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-TIC4002-F18-1/tp2.git (master) completed!
-Mar 23, 2021 12:44:59 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:40 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-TIC4002-F18-4/tp2.git to complete...
-Mar 23, 2021 12:44:59 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:40 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-TIC4002-F18-4/tp2.git completed!
-Mar 23, 2021 12:44:59 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 24, 2021 12:45:40 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-TIC4002-F18-3/tp2.git...
-Mar 23, 2021 12:44:59 AM reposense.report.ReportGenerator analyzeRepos
+Mar 24, 2021 12:45:40 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [2/4] Analyzing https://github.com/AY2021S2-TIC4002-F18-4/tp2.git (master)...
-Mar 23, 2021 12:44:59 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 24, 2021 12:45:41 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-TIC4002-F18-4/tp2.git (master) does not contain a standalone config file.
-Mar 23, 2021 12:44:59 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 24, 2021 12:45:41 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-TIC4002-F18-4/tp2.git (master)...
-Mar 23, 2021 12:44:59 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 24, 2021 12:45:41 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-TIC4002-F18-4/tp2.git (master)...
-Mar 23, 2021 12:44:59 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Mar 24, 2021 12:45:41 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-TIC4002-F18-4/tp2.git (master)...
-Mar 23, 2021 12:45:01 AM reposense.report.ReportGenerator analyzeRepo
+Mar 24, 2021 12:45:43 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-TIC4002-F18-4/tp2.git (master) completed!
-Mar 23, 2021 12:45:01 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:43 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-TIC4002-F18-3/tp2.git to complete...
-Mar 23, 2021 12:45:01 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:43 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-TIC4002-F18-3/tp2.git completed!
-Mar 23, 2021 12:45:01 AM reposense.report.RepoCloner spawnCloneProcess
+Mar 24, 2021 12:45:43 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-TIC4002-F18-2/tp2.git...
-Mar 23, 2021 12:45:01 AM reposense.report.ReportGenerator analyzeRepos
+Mar 24, 2021 12:45:43 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [3/4] Analyzing https://github.com/AY2021S2-TIC4002-F18-3/tp2.git (master)...
-Mar 23, 2021 12:45:01 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 24, 2021 12:45:44 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-TIC4002-F18-3/tp2.git (master) does not contain a standalone config file.
-Mar 23, 2021 12:45:01 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 24, 2021 12:45:44 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-TIC4002-F18-3/tp2.git (master)...
-Mar 23, 2021 12:45:01 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 24, 2021 12:45:44 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-TIC4002-F18-3/tp2.git (master)...
-Mar 23, 2021 12:45:01 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Mar 24, 2021 12:45:44 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-TIC4002-F18-3/tp2.git (master)...
-Mar 23, 2021 12:45:02 AM reposense.report.ReportGenerator analyzeRepo
+Mar 24, 2021 12:45:45 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-TIC4002-F18-3/tp2.git (master) completed!
-Mar 23, 2021 12:45:02 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:45 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-TIC4002-F18-2/tp2.git to complete...
-Mar 23, 2021 12:45:02 AM reposense.report.RepoCloner waitForCloneProcess
+Mar 24, 2021 12:45:45 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-TIC4002-F18-2/tp2.git completed!
-Mar 23, 2021 12:45:02 AM reposense.report.ReportGenerator analyzeRepos
+Mar 24, 2021 12:45:45 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [4/4] Analyzing https://github.com/AY2021S2-TIC4002-F18-2/tp2.git (master)...
-Mar 23, 2021 12:45:02 AM reposense.report.ReportGenerator updateRepoConfig
+Mar 24, 2021 12:45:45 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-TIC4002-F18-2/tp2.git (master) does not contain a standalone config file.
-Mar 23, 2021 12:45:02 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Mar 24, 2021 12:45:45 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-TIC4002-F18-2/tp2.git (master)...
-Mar 23, 2021 12:45:03 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Mar 24, 2021 12:45:45 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-TIC4002-F18-2/tp2.git (master)...
-Mar 23, 2021 12:45:03 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Mar 24, 2021 12:45:45 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-TIC4002-F18-2/tp2.git (master)...
-Mar 23, 2021 12:45:07 AM reposense.report.ReportGenerator analyzeRepo
+Mar 24, 2021 12:45:49 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-TIC4002-F18-2/tp2.git (master) completed!
-Mar 23, 2021 12:45:07 AM reposense.report.ReportGenerator generateReposReport
+Mar 24, 2021 12:45:50 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/runner/work/tp-dashboard/tp-dashboard/reposense-report
-Mar 23, 2021 12:45:07 AM reposense.RepoSense main
-INFO: Elapsed processing time: 12.59 second(s)
+Mar 24, 2021 12:45:50 AM reposense.RepoSense main
+INFO: Elapsed processing time: 13.43 second(s)
